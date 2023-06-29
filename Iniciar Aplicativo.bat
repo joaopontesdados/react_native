@@ -1,6 +1,6 @@
 @echo off
 color 5 
 echo O APLICATIVO ESTA INICIANDO!
-npm instal;
+npm install
 npm start
 pause

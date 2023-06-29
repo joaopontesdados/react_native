@@ -20,6 +20,8 @@ Pré-requisitos
 Instalação:
 1. Abra o código no VSCODE
 
+2. Iniciar npminstall.bat
+
 2. Iniciar o script do banco de dados
 
 2. Clique em Iniciar Aplicativo.bat
